@@ -4,7 +4,7 @@
 Aprender a gerenciar processos e monitorar o uso de recursos no sistema.
 
 ---
-⚙️ Gerenciando Recursos
+# ⚙️ Gerenciando Recursos
 
 ## 📂 Parte 1: Monitorando Processos e Uso de Recursos
 1. Verifique a carga do sistema usando o comando:  
@@ -35,7 +35,7 @@ para terminar estes comandos pressione CTRL+C
    free -h
   ```
 
-⚙️ Gerenciando Processos
+# ⚙️ Gerenciando Processos
 
 ## 📂 Parte 1: Inicie um processo em background:
   ```bash
@@ -74,7 +74,7 @@ no lugar de <PID> coloque o número do processo que você anotou.
   ```
 
 
-📜  Criando um Script para Monitoramento
+# 📜  Criando um Script para Monitoramento
 
 ## 📂 Parte 1: Crie um script chamado monitor_sistema.sh:
   ```bash
@@ -108,7 +108,7 @@ no lugar de <PID> coloque o número do processo que você anotou.
   $HOME/monitor_sistema.sh
   ```
 
-🎯 Instruções para Envio
+# 🎯 Instruções para Envio
 A correção será feita automaticamente. Depois de realizar os comandos no SSH digite exit para que seu histórico seja atualizado.
 Certifique-se de que o script monitor_sistema.sh está correto e que os comandos foram executados. Seu histórico será consultado. 
 
